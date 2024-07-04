@@ -1,7 +1,7 @@
 <h1>AWS Project - Creating and deploying a VPC and EC2 Instance on AWS</h1>
 
 <h2>Description</h2>
-This is another entry-level/beginner friendly exploring virtual private cloud (VPC) technologies, specifically in AWS. A VPC is a logically isolated network that would operate similarly to a traditional network like in a standard data center, with the benefits of having a highly scalable architecture in addition to having segregrated resources to specific users. Additionally, I will deploy a basic EC2 instance on the VPC as well.
+This is another entry-level/beginner friendly exploring virtual private cloud (VPC) technologies, specifically in AWS. A VPC is a logically isolated network that would operate similarly to a traditional network like in a standard data center, with the benefits of having a highly scalable architecture in addition to having segregrated resources to specific users. Additionally, I will deploy a basic EC2 instance on the VPC as well. Most of the configurations and details for the project will use basic, default and baseline settings for simplicity and understanding.
   
 <h2>Lab walk-through/details:</h2>
 
